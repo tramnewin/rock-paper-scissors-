@@ -83,8 +83,9 @@ Name: input.txt
         game.cpp
         thegame.h
         thegame.cpp
-	      makefile.txt
-        Readme.txt
+	input.txt
+	makefile.txt
+        readme.txt
 	
 
 2. Build the program.
